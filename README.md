@@ -1,1 +1,1 @@
-# opniao
+Gestao de Stock Online.. Brevemente
